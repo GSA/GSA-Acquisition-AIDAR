@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_752_7000_T48_501836311">
+      <title class="- topic/title ">
+         <ph props="autonumber">752.7000</ph> Scope of subpart.</title>
+      <conbody>
+         <p xtrc="P">Subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_752_70_T48_5018363"
+                  href="Subpart_752_70_T48_5018363.dita#Subpart_752_70_T48_5018363">752.70</xref> contains the text of USAID-specific contract clauses for which there is no (48 CFR) FAR equivalent. The clauses in this subpart do not apply to contracts for personal services. For personal service contract clauses see (48 CFR) AIDAR Appendix D - Direct USAID Contracts with U.S. Citizens or U.S. Residents for Personal Services Abroad and (48 CFR) AIDAR Appendix J - Direct USAID Contracts with Cooperating Country Nationals and with Third Country Nationals for Personal Services Abroad.
+</p>
+      </conbody>
+   </concept>
+</dita>

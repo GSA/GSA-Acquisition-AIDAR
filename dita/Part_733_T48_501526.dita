@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_733_T48_501526">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 733</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           Sec. 621. Pub. L. 87-195, 73 Stat. 445 (22 U.S.C. 2381), as amended: E.O. 12163, Sept. 29, 1979, 44 FR 56673, 3 CFR, 1979 Comp. p. 435.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_733_1_T48_5015261.dita#Subpart_733_1_T48_5015261">Subpart 733.1 - Protests</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_733_101_T48_501526111.dita#Section_733_101_T48_501526111">733.101 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_733_103_70_T48_501526112.dita#Section_733_103_70_T48_501526112">733.103-70 Protests to the agency.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_733_103_71_T48_501526113.dita#Section_733_103_71_T48_501526113">733.103-71 Filing of protest.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_733_103_72_T48_501526114.dita#Section_733_103_72_T48_501526114">733.103-72 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_733_103_73_T48_501526115.dita#Section_733_103_73_T48_501526115">733.103-73 Protests excluded from Agency consideration.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_733_27_T48_5015262.dita#Subpart_733_27_T48_5015262">Subpart 733.27 - USAID Procedures for Disputes and Appeals</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_733_270_T48_501526211.dita#Section_733_270_T48_501526211">733.270 Designation of Civilian Board of Contract Appeals (CBCA) to hear and determine appeals under USAID contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_715_305_T48_501313113">
+      <title class="- topic/title ">
+         <ph props="autonumber">715.305</ph> Proposal evaluation.</title>
+      <conbody>
+         <p outputclass="List1">(a) [Reserved]
+</p>
+         <p outputclass="List1">(b) A justification must be written by the contracting officer and placed in the official file to support the decision to reject all proposals and to cancel the procurement.
+</p>
+         <p outputclass="List1">(c) The contracting officer may authorize release of proposals outside the Government for evaluation - 
+</p>
+         <p outputclass="List2">(1) When an Evaluation Assistance Contract (EAC) is required to provide technical advisory or other services relating to the evaluation of proposals; or
+</p>
+         <p outputclass="List2">(2) When an individual other than a Government employee, known as a Non-Government Evaluator (NGE), is selected to serve as a member of a USAID technical evaluation committee.
+</p>
+         <p outputclass="List2">(3) Prior to releasing the proposals outside the Government, the contracting officer must obtain a signed and dated agreement from each NGE and EAC employee that they will safeguard the proposals and information in the proposals and that they perceive no actual or potential conflict of interests. (An example of such agreement is provided in the ADS).
+</p>
+      </conbody>
+   </concept>
+</dita>

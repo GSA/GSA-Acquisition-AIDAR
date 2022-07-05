@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_716_501_270_T48_501314211">
+      <title class="- topic/title ">
+         <ph props="autonumber">716.501-270</ph> Partner vetting - indefinite-delivery contracts.</title>
+      <conbody>
+         <p xtrc="P">If a task order or delivery order under an indefinite-delivery contract has the potential to be subject to vetting, then the contract itself will be subject to the applicable procedures and requirements for partner vetting in (48 CFR) AIDAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_704_70_T48_501153"
+                  href="Subpart_704_70_T48_501153.dita#Subpart_704_70_T48_501153">704.70</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

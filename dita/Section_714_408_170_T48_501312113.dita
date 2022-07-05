@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_714_408_170_T48_501312113">
+      <title class="- topic/title ">
+         <ph props="autonumber">714.408-170</ph> Partner vetting.</title>
+      <conbody>
+         <p xtrc="P">If an acquisition is identified as subject to vetting, see (48 CFR) AIDAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_704_70_T48_501153"
+                  href="Subpart_704_70_T48_501153.dita#Subpart_704_70_T48_501153">704.70</xref> for the applicable procedures and requirements.
+</p>
+      </conbody>
+   </concept>
+</dita>

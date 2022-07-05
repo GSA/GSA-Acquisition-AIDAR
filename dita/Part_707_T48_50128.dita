@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_707_T48_50128">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 707</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_707_1_T48_501281.dita#Subpart_707_1_T48_501281">Subpart 707.1 - Acquisition Plans</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_707_104_T48_50128111.dita#Section_707_104_T48_50128111">707.104 General procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

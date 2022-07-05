@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_705_T48_50126">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 705</ph> - PUBLICIZING CONTRACT ACTIONS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           Sec. 621, Pub. L. 87-195, 75 Stat. 445 (22 U.S.C. 2381), as amended; E.O. 12163, Sept. 29, 1979, 44 FR 56673, 3 CFR, 1979 Comp., p. 435; 40 U.S.C. 474.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_705_002_T48_50126011.dita#Section_705_002_T48_50126011">705.002 [Reserved]</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_705_2_T48_501261.dita#Subpart_705_2_T48_501261">Subpart 705.2 - Synopsis of Proposed Contract Actions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_705_202_T48_50126111.dita#Section_705_202_T48_50126111">705.202 Exceptions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_705_207_T48_50126112.dita#Section_705_207_T48_50126112">705.207 [Reserved]</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_705_5_T48_501262.dita#Subpart_705_5_T48_501262">Subpart 705.5 - Paid Advertisement</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_705_502_T48_50126211.dita#Section_705_502_T48_50126211">705.502 Authority.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

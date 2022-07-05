@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_701_303_T48_50112212">
+      <title class="- topic/title ">
+         <ph props="autonumber">701.303</ph> Publication and codification.</title>
+      <conbody>
+         <p outputclass="List1">(a) The AIDAR is USAID's Acquisition Regulation supplementing the FAR (48 CFR chapter 1) and is published as chapter 7 of title 48, Code of Federal Regulations. AIDAR Circulars shall be used to promulgate changes to the AIDAR and shall be published in compliance with (48 CFR) FAR part 1. 
+</p>
+         <p outputclass="List1">(b) <i>Appendices.</i> Significant procurement policies and procedures that do not correspond to or conveniently fit into the FAR system described in FAR subpart 1.1 and 1.303 may be published as Appendices to the AIDAR. Appendices follow the main text of the AIDAR in a section entitled “Appendices to Chapter 7” and contain a table of contents and the individual appendices identified by letter and subject title (e.g., “Appendix D - Direct USAID Contracts with a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad”). 
+</p>
+         <p outputclass="List1">(c) Only the M/OAA Director has the authority to issue internal Agency guidance applicable to all Agency contracts. The heads of the various Agency contracting activities (see Subparts <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_701_6_T48_501124"
+                  href="Subpart_701_6_T48_501124.dita#Subpart_701_6_T48_501124">701.6</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_702_170_T48_501131"
+                  href="Subpart_702_170_T48_501131.dita#Subpart_702_170_T48_501131">702.170</xref>) may issue operating instructions and procedures consistent with the FAR, AIDAR, and other Agency regulations, policies, and procedures for application within their organizations. One copy of each such issuance must be forwarded to the Bureau for Management, Office of Acquisition and Assistance, Policy Division (M/OAA/P). Insofar as possible, such material must be numerically keyed to the AIDAR.
+</p>
+      </conbody>
+   </concept>
+</dita>

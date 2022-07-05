@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_745_T48_501732">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 745</ph> - GOVERNMENT PROPERTY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           Sec. 621, Pub. L. 787-195, 75 Stat. 445, (22 U.S.C. 2381) as amended; E.O. 12163, Sept. 29, 1979, 44 FR 56673; 3 CFR 1979 Comp., p. 435.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_745_1_T48_5017321.dita#Subpart_745_1_T48_5017321">Subpart 745.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_745_107_T48_501732111.dita#Section_745_107_T48_501732111">745.107 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
