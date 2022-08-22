@@ -1648,33 +1648,6 @@
                 href="Part_754_799_T48_501838.dita"
                 props="PARTS 754-799 [RESERVED]"
                 outputclass="Part"/>
-      <topicref navtitle="Appendixes A-C to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
-                href="tce_48_5018390111.dita"
-                props="Appendixes A-C to Chapter 7 [Reserved]"
-                outputclass="Appendix"/>
-      <topicref navtitle="Appendix D to Chapter 7 - Direct USAID Contracts With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad&#xA;"
-                href="Appendix_AppendixD_T48_5018390112.dita"
-                props="Appendix D to Chapter 7 - Direct USAID Contracts With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad"
-                outputclass="Appendix"/>
-      <topicref navtitle="Appendix E to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
-                href="Appendix_AppendixE_T48_5018390113.dita"
-                props="Appendix E to Chapter 7 [Reserved]"
-                outputclass="Appendix"/>
-      <topicref navtitle="Appendix F to Chapter 7 - Use of Collaborative Assistance Method for Title XII Activities&#xA;"
-                href="Appendix_AppendixF_T48_5018390114.dita"
-                props="Appendix F to Chapter 7 - Use of Collaborative Assistance Method for Title XII Activities"
-                outputclass="Appendix"/>
-      <topicref navtitle="Appendixes G-H to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
-                href="tce_48_5018390115.dita"
-                props="Appendixes G-H to Chapter 7 [Reserved]"
-                outputclass="Appendix"/>
-      <topicref navtitle="Appendix I to Chapter 7 - USAID's Academic Publication Policy&#xA;"
-                href="Appendix_AppendixI_T48_5018390116.dita"
-                props="Appendix I to Chapter 7 - USAID's Academic Publication Policy"
-                outputclass="Appendix"/>
-      <topicref navtitle="Appendix J to Chapter 7 - Direct USAID Contracts With a Cooperating Country National and With a Third Country National for Personal Services Abroad&#xA;&#xA;&#xA;"
-                href="Appendix_AppendixJ_T48_5018390117.dita"
-                props="Appendix J to Chapter 7 - Direct USAID Contracts With a Cooperating Country National and With a Third Country National for Personal Services Abroad"
-                outputclass="Appendix"/>
+      
    </topicref>
 </map>
