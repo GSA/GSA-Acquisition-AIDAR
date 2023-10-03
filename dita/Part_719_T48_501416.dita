@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_719_T48_501416">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 719</ph> - SMALL BUSINESS PROGRAMS</title>
+      <title class="- topic/title ">PART 719—SMALL BUSINESS PROGRAMS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_719_2_T48_5014161.dita#Subpart_719_2_T48_5014161">Subpart 719.2 - Policies</xref>
+                        href="Subpart_719_2_T48_5014161.dita#Subpart_719_2_T48_5014161">Subpart 719.2—Policies</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -90,7 +90,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_719_273_T48_5014162.dita#Subpart_719_273_T48_5014162">Subpart 719.273 - The U.S. Agency for International Development (USAID) Mentor-Protégé Program</xref>
+                        href="Subpart_719_273_T48_5014162.dita#Subpart_719_273_T48_5014162">Subpart 719.273—The U.S. Agency for International Development (USAID) Mentor-Protégé Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -170,7 +170,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_719_T48_5014163.dita#Subpart_719_T48_5014163">Subpart 719-7 - The Small Business Subcontracting Program</xref>
+                        href="Subpart_719_T48_5014163.dita#Subpart_719_T48_5014163">Subpart 719–7—The Small Business Subcontracting Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
