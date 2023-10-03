@@ -3,7 +3,9 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic outputclass="SubChapter" id="Subchapter_A_T48_5011">
-      <title class="- topic/title ">
-         <ph props="autonumber">SUBCHAPTER A</ph> - GENERAL</title>
+      <title class="- topic/title ">SUBCHAPTER A—GENERAL
+
+
+</title>
    </topic>
 </dita>

@@ -2,39 +2,39 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
 <map outputclass="ecfr" otherprops="String2Xref">
-   <title> CHAPTER 7 - AGENCY FOR INTERNATIONAL DEVELOPMENT</title>
+   <title> CHAPTER 7—AGENCY FOR INTERNATIONAL DEVELOPMENT</title>
    <topicref navtitle="Volume Number"
              href="VolumeChapter_7_T48_501.dita"
-             props="CHAPTER 7"
+             props="CHAPTER 7—AGENCY FOR INTERNATIONAL DEVELOPMENT"
              outputclass="Volume">
       <topicref navtitle="Chapter Title"
                 href="Chapter_7_T48_501.dita"
-                props="CHAPTER 7"/>
+                props="CHAPTER 7—AGENCY FOR INTERNATIONAL DEVELOPMENT"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER A - GENERAL&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER A—GENERAL&#xA;&#xA;&#xA;"
              href="Subchapter_A_T48_5011.dita"
-             props="SUBCHAPTER A"
+             props="SUBCHAPTER A—GENERAL"
              outputclass="SubChapter">
       <topicref navtitle="PART 700 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_700_T48_50111.dita"
                 props="PART 700"
                 outputclass="Part"/>
-      <topicref navtitle="PART 701 - FEDERAL ACQUISITION REGULATION SYSTEM&#xA;"
+      <topicref navtitle="PART 701—FEDERAL ACQUISITION REGULATION SYSTEM&#xA;"
                 href="Part_701_T48_50112.dita"
-                props="PART 701"
+                props="PART 701—FEDERAL ACQUISITION REGULATION SYSTEM"
                 outputclass="Part">
-         <topicref navtitle="Subpart 701.1 - Purpose, Authority, Issuance"
+         <topicref navtitle="Subpart 701.1—Purpose, Authority, Issuance"
                    href="Subpart_701_1_T48_501121.dita"
-                   props="Subpart 701.1"
+                   props="Subpart 701.1—Purpose, Authority, Issuance"
                    outputclass="SubPart">
             <topicref navtitle="701.106   OMB approval under the Paperwork Reduction Act."
                       href="Section_701_106_T48_50112111.dita"
                       props="701.106"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 701.3 - U.S. Agency for International Development Acquisition Regulation"
+         <topicref navtitle="Subpart 701.3—U.S. Agency for International Development Acquisition Regulation"
                    href="Subpart_701_3_T48_501122.dita"
-                   props="Subpart 701.3"
+                   props="Subpart 701.3—U.S. Agency for International Development Acquisition Regulation"
                    outputclass="SubPart">
             <topicref navtitle="701.301   Policy."
                       href="Section_701_301_T48_50112211.dita"
@@ -45,9 +45,9 @@
                       props="701.303"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 701.4 - Deviations from the FAR or AIDAR"
+         <topicref navtitle="Subpart 701.4—Deviations from the FAR or AIDAR"
                    href="Subpart_701_4_T48_501123.dita"
-                   props="Subpart 701.4"
+                   props="Subpart 701.4—Deviations from the FAR or AIDAR"
                    outputclass="SubPart">
             <topicref navtitle="701.402   Policy."
                       href="Section_701_402_T48_50112311.dita"
@@ -58,9 +58,9 @@
                       props="701.470"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 701.6 - Career Development, Contracting Authority, and Responsibilities"
+         <topicref navtitle="Subpart 701.6—Career Development, Contracting Authority, and Responsibilities"
                    href="Subpart_701_6_T48_501124.dita"
-                   props="Subpart 701.6"
+                   props="Subpart 701.6—Career Development, Contracting Authority, and Responsibilities"
                    outputclass="SubPart">
             <topicref navtitle="701.601   General."
                       href="Section_701_601_T48_50112411.dita"
@@ -83,9 +83,9 @@
                       props="701.603-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 701.7 - Determinations and Findings"
+         <topicref navtitle="Subpart 701.7—Determinations and Findings"
                    href="Subpart_701_7_T48_501125.dita"
-                   props="Subpart 701.7"
+                   props="Subpart 701.7—Determinations and Findings"
                    outputclass="SubPart">
             <topicref navtitle="701.704   Content."
                       href="Section_701_704_T48_50112511.dita"
@@ -97,22 +97,22 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 702 - DEFINITIONS OF WORDS AND TERMS&#xA;"
+      <topicref navtitle="PART 702—DEFINITIONS OF WORDS AND TERMS&#xA;"
                 href="Part_702_T48_50113.dita"
-                props="PART 702"
+                props="PART 702—DEFINITIONS OF WORDS AND TERMS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 702.170 - Definitions"
+         <topicref navtitle="Subpart 702.170—Definitions"
                    href="Subpart_702_170_T48_501131.dita"
-                   props="Subpart 702.170"
+                   props="Subpart 702.170—Definitions"
                    outputclass="SubPart">
             <topicref navtitle="702.170-1   Definitions."
                       href="Section_702_170_1_T48_50113111.dita"
                       props="702.170-1"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 702.270 - Definitions Clause"
+         <topicref navtitle="Subpart 702.270—Definitions Clause"
                    href="Subpart_702_270_T48_501132.dita"
-                   props="Subpart 702.270"
+                   props="Subpart 702.270—Definitions Clause"
                    outputclass="SubPart">
             <topicref navtitle="702.270-1   Definitions clause."
                       href="Section_702_270_1_T48_50113211.dita"
@@ -120,13 +120,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 703 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
+      <topicref navtitle="PART 703—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
                 href="Part_703_T48_50114.dita"
-                props="PART 703"
+                props="PART 703—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
                 outputclass="Part">
-         <topicref navtitle="Subpart 703.1 - Safeguards"
+         <topicref navtitle="Subpart 703.1—Safeguards"
                    href="Subpart_703_1_T48_501141.dita"
-                   props="Subpart 703.1"
+                   props="Subpart 703.1—Safeguards"
                    outputclass="SubPart">
             <topicref navtitle="703.104-4   Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
                       href="Section_703_104_4_T48_50114111.dita"
@@ -138,26 +138,26 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 704 - ADMINISTRATIVE MATTERS&#xA;"
+      <topicref navtitle="PART 704—ADMINISTRATIVE MATTERS&#xA;"
                 href="Part_704_T48_50115.dita"
-                props="PART 704"
+                props="PART 704—ADMINISTRATIVE MATTERS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 704.4 - Safeguarding Classified Information Within Industry"
+         <topicref navtitle="Subpart 704.4—Safeguarding Classified Information Within Industry"
                    href="Subpart_704_4_T48_501151.dita"
-                   props="Subpart 704.4"
+                   props="Subpart 704.4—Safeguarding Classified Information Within Industry"
                    outputclass="SubPart">
             <topicref navtitle="704.404   Contract clauses."
                       href="Section_704_404_T48_50115111.dita"
                       props="704.404"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 704.8 - Contract Files [Reserved]"
+         <topicref navtitle="Subpart 704.8—Contract Files [Reserved]"
                    href="Subpart_704_8_T48_501152.dita"
-                   props="Subpart 704.8"
+                   props="Subpart 704.8—Contract Files [Reserved]"
                    outputclass="SubPart"/>
-         <topicref navtitle="Subpart 704.70 - Partner Vetting"
+         <topicref navtitle="Subpart 704.70—Partner Vetting"
                    href="Subpart_704_70_T48_501153.dita"
-                   props="Subpart 704.70"
+                   props="Subpart 704.70—Partner Vetting"
                    outputclass="SubPart">
             <topicref navtitle="704.7001   Scope of subpart."
                       href="Section_704_7001_T48_50115311.dita"
@@ -194,21 +194,21 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER B - ACQUISITION PLANNING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER B—ACQUISITION PLANNING&#xA;&#xA;&#xA;"
              href="Subchapter_B_T48_5012.dita"
-             props="SUBCHAPTER B"
+             props="SUBCHAPTER B—ACQUISITION PLANNING"
              outputclass="SubChapter">
-      <topicref navtitle="PART 705 - PUBLICIZING CONTRACT ACTIONS&#xA;"
+      <topicref navtitle="PART 705—PUBLICIZING CONTRACT ACTIONS&#xA;"
                 href="Part_705_T48_50126.dita"
-                props="PART 705"
+                props="PART 705—PUBLICIZING CONTRACT ACTIONS"
                 outputclass="Part">
          <topicref navtitle="705.002   [Reserved]"
                    href="Section_705_002_T48_50126011.dita"
                    props="705.002"
                    outputclass="Section"/>
-         <topicref navtitle="Subpart 705.2 - Synopsis of Proposed Contract Actions"
+         <topicref navtitle="Subpart 705.2—Synopsis of Proposed Contract Actions"
                    href="Subpart_705_2_T48_501261.dita"
-                   props="Subpart 705.2"
+                   props="Subpart 705.2—Synopsis of Proposed Contract Actions"
                    outputclass="SubPart">
             <topicref navtitle="705.202   Exceptions."
                       href="Section_705_202_T48_50126111.dita"
@@ -219,9 +219,9 @@
                       props="705.207"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 705.5 - Paid Advertisement"
+         <topicref navtitle="Subpart 705.5—Paid Advertisement"
                    href="Subpart_705_5_T48_501262.dita"
-                   props="Subpart 705.5"
+                   props="Subpart 705.5—Paid Advertisement"
                    outputclass="SubPart">
             <topicref navtitle="705.502   Authority."
                       href="Section_705_502_T48_50126211.dita"
@@ -229,17 +229,17 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 706 - COMPETITION REQUIREMENTS&#xA;"
+      <topicref navtitle="PART 706—COMPETITION REQUIREMENTS&#xA;"
                 href="Part_706_T48_50127.dita"
-                props="PART 706"
+                props="PART 706—COMPETITION REQUIREMENTS"
                 outputclass="Part">
-         <topicref navtitle="Subparts 706.1-706.2 [Reserved]"
+         <topicref navtitle="Subparts 706.1–706.2 [Reserved]"
                    href="Subpart_706_1_T48_501271.dita"
-                   props="Subparts 706.1-706.2 [Reserved]"
+                   props="Subparts 706.1–706.2 [Reserved]"
                    outputclass="SubPart"/>
-         <topicref navtitle="Subpart 706.3 - Other Than Full and Open Competition"
+         <topicref navtitle="Subpart 706.3—Other Than Full and Open Competition"
                    href="Subpart_706_3_T48_501272.dita"
-                   props="Subpart 706.3"
+                   props="Subpart 706.3—Other Than Full and Open Competition"
                    outputclass="SubPart">
             <topicref navtitle="706.302-5   [Reserved]"
                       href="Section_706_302_5_T48_50127211.dita"
@@ -254,9 +254,9 @@
                       props="706.302-71"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 706.5 - Competition Advocates"
+         <topicref navtitle="Subpart 706.5—Competition Advocates"
                    href="Subpart_706_5_T48_501273.dita"
-                   props="Subpart 706.5"
+                   props="Subpart 706.5—Competition Advocates"
                    outputclass="SubPart">
             <topicref navtitle="706.501   Requirement."
                       href="Section_706_501_T48_50127311.dita"
@@ -264,13 +264,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 707 - ACQUISITION PLANNING&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 707—ACQUISITION PLANNING&#xA;&#xA;&#xA;"
                 href="Part_707_T48_50128.dita"
-                props="PART 707"
+                props="PART 707—ACQUISITION PLANNING"
                 outputclass="Part">
-         <topicref navtitle="Subpart 707.1 - Acquisition Plans"
+         <topicref navtitle="Subpart 707.1—Acquisition Plans"
                    href="Subpart_707_1_T48_501281.dita"
-                   props="Subpart 707.1"
+                   props="Subpart 707.1—Acquisition Plans"
                    outputclass="SubPart">
             <topicref navtitle="707.104   General procedures."
                       href="Section_707_104_T48_50128111.dita"
@@ -278,22 +278,22 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 709 - CONTRACTOR QUALIFICATIONS&#xA;"
+      <topicref navtitle="PART 709—CONTRACTOR QUALIFICATIONS&#xA;"
                 href="Part_709_T48_50129.dita"
-                props="PART 709"
+                props="PART 709—CONTRACTOR QUALIFICATIONS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 709.4 - Debarment, Suspension and Ineligibility"
+         <topicref navtitle="Subpart 709.4—Debarment, Suspension and Ineligibility"
                    href="Subpart_709_4_T48_501291.dita"
-                   props="Subpart 709.4"
+                   props="Subpart 709.4—Debarment, Suspension and Ineligibility"
                    outputclass="SubPart">
             <topicref navtitle="709.403   Definitions."
                       href="Section_709_403_T48_50129111.dita"
                       props="709.403"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 709.5 - Organizational Conflicts of Interest"
+         <topicref navtitle="Subpart 709.5—Organizational Conflicts of Interest"
                    href="Subpart_709_5_T48_501292.dita"
-                   props="Subpart 709.5"
+                   props="Subpart 709.5—Organizational Conflicts of Interest"
                    outputclass="SubPart">
             <topicref navtitle="709.503   Waiver."
                       href="Section_709_503_T48_50129211.dita"
@@ -305,9 +305,9 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 711 - DESCRIBING AGENCY NEEDS&#xA;"
+      <topicref navtitle="PART 711—DESCRIBING AGENCY NEEDS&#xA;"
                 href="Part_711_T48_501210.dita"
-                props="PART 711"
+                props="PART 711—DESCRIBING AGENCY NEEDS"
                 outputclass="Part">
          <topicref navtitle="711.002-70   Metric system waivers."
                    href="Section_711_002_70_T48_501210011.dita"
@@ -319,13 +319,13 @@
                    outputclass="Section"/>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER C - CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
              href="Subchapter_C_T48_5013.dita"
-             props="SUBCHAPTER C"
+             props="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES"
              outputclass="SubChapter">
-      <topicref navtitle="PART 713 - SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+      <topicref navtitle="PART 713—SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
                 href="Part_713_T48_501311.dita"
-                props="PART 713"
+                props="PART 713—SIMPLIFIED ACQUISITION PROCEDURES"
                 outputclass="Part">
          <topicref navtitle="713.000   Scope of part."
                    href="Section_713_000_T48_501311011.dita"
@@ -335,9 +335,9 @@
                    href="Section_713_001_T48_501311012.dita"
                    props="713.001"
                    outputclass="Section"/>
-         <topicref navtitle="Subpart 713.1 - Procedures."
+         <topicref navtitle="Subpart 713.1—Procedures."
                    href="Subpart_713_1_T48_5013111.dita"
-                   props="Subpart 713.1"
+                   props="Subpart 713.1—Procedures."
                    outputclass="SubPart">
             <topicref navtitle="713.106-370   Partner vetting."
                       href="Section_713_106_370_T48_501311111.dita"
@@ -345,13 +345,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 714 - SEALED BIDDING&#xA;"
+      <topicref navtitle="PART 714—SEALED BIDDING&#xA;"
                 href="Part_714_T48_501312.dita"
-                props="PART 714"
+                props="PART 714—SEALED BIDDING"
                 outputclass="Part">
-         <topicref navtitle="Subpart 714.4 - Opening of Bids and Award of Contract"
+         <topicref navtitle="Subpart 714.4—Opening of Bids and Award of Contract"
                    href="Subpart_714_4_T48_5013121.dita"
-                   props="Subpart 714.4"
+                   props="Subpart 714.4—Opening of Bids and Award of Contract"
                    outputclass="SubPart">
             <topicref navtitle="714.407-3   Other mistakes disclosed before award."
                       href="Section_714_407_3_T48_501312111.dita"
@@ -367,13 +367,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 715 - CONTRACTING BY NEGOTIATION&#xA;"
+      <topicref navtitle="PART 715—CONTRACTING BY NEGOTIATION&#xA;"
                 href="Part_715_T48_501313.dita"
-                props="PART 715"
+                props="PART 715—CONTRACTING BY NEGOTIATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 715.3 - Source Selection"
+         <topicref navtitle="Subpart 715.3—Source Selection"
                    href="Subpart_715_3_T48_5013131.dita"
-                   props="Subpart 715.3"
+                   props="Subpart 715.3—Source Selection"
                    outputclass="SubPart">
             <topicref navtitle="715.303   Responsibilities."
                       href="Section_715_303_T48_501313111.dita"
@@ -391,27 +391,27 @@
                       href="Section_715_370_T48_501313114.dita"
                       props="715.370"
                       outputclass="Section"/>
-            <topicref navtitle="715.370-1   Title XII selection procedure - general."
+            <topicref navtitle="715.370-1   Title XII selection procedure—general."
                       href="Section_715_370_1_T48_501313115.dita"
                       props="715.370-1"
                       outputclass="Section"/>
-            <topicref navtitle="715.370-2   Title XII selection procedure - collaborative assistance."
+            <topicref navtitle="715.370-2   Title XII selection procedure—collaborative assistance."
                       href="Section_715_370_2_T48_501313116.dita"
                       props="715.370-2"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 715.70 - Partner Vetting"
+         <topicref navtitle="Subpart 715.70—Partner Vetting"
                    href="Subpart_715_70_T48_5013132.dita"
-                   props="Subpart 715.70"
+                   props="Subpart 715.70—Partner Vetting"
                    outputclass="SubPart">
             <topicref navtitle="715.70   Partner vetting."
                       href="Section_715_70_T48_501313211.dita"
                       props="715.70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 715.6 - Unsolicited Proposals"
+         <topicref navtitle="Subpart 715.6—Unsolicited Proposals"
                    href="Subpart_715_6_T48_5013133.dita"
-                   props="Subpart 715.6"
+                   props="Subpart 715.6—Unsolicited Proposals"
                    outputclass="SubPart">
             <topicref navtitle="715.602   Policy."
                       href="Section_715_602_T48_501313311.dita"
@@ -423,13 +423,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 716 - TYPES OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 716—TYPES OF CONTRACTS&#xA;"
                 href="Part_716_T48_501314.dita"
-                props="PART 716"
+                props="PART 716—TYPES OF CONTRACTS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 716.3 - Cost Reimbursement Contracts"
+         <topicref navtitle="Subpart 716.3—Cost Reimbursement Contracts"
                    href="Subpart_716_3_T48_5013141.dita"
-                   props="Subpart 716.3"
+                   props="Subpart 716.3—Cost Reimbursement Contracts"
                    outputclass="SubPart">
             <topicref navtitle="716.303   Cost-sharing contracts."
                       href="Section_716_303_T48_501314111.dita"
@@ -444,15 +444,15 @@
                       props="716.406"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 716.5 - Indefinite-Delivery Contracts"
+         <topicref navtitle="Subpart 716.5—Indefinite-Delivery Contracts"
                    href="Subpart_716_5_T48_5013142.dita"
-                   props="Subpart 716.5"
+                   props="Subpart 716.5—Indefinite-Delivery Contracts"
                    outputclass="SubPart">
-            <topicref navtitle="716.501-270   Partner vetting - indefinite-delivery contracts."
+            <topicref navtitle="716.501-270   Partner vetting—indefinite-delivery contracts."
                       href="Section_716_501_270_T48_501314211.dita"
                       props="716.501-270"
                       outputclass="Section"/>
-            <topicref navtitle="716.505-70   Partner vetting - orders under indefinite delivery contracts."
+            <topicref navtitle="716.505-70   Partner vetting—orders under indefinite delivery contracts."
                       href="Section_716_505_70_T48_501314212.dita"
                       props="716.505-70"
                       outputclass="Section"/>
@@ -462,13 +462,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 717 - SPECIAL CONTRACTING METHODS&#xA;"
+      <topicref navtitle="PART 717—SPECIAL CONTRACTING METHODS&#xA;"
                 href="Part_717_T48_501315.dita"
-                props="PART 717"
+                props="PART 717—SPECIAL CONTRACTING METHODS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 717.70 - Pharmaceutical Products"
+         <topicref navtitle="Subpart 717.70—Pharmaceutical Products"
                    href="Subpart_717_70_T48_5013151.dita"
-                   props="Subpart 717.70"
+                   props="Subpart 717.70—Pharmaceutical Products"
                    outputclass="SubPart">
             <topicref navtitle="717.770   General."
                       href="Section_717_770_T48_501315111.dita"
@@ -477,17 +477,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER D - SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
              href="Subchapter_D_T48_5014.dita"
-             props="SUBCHAPTER D"
+             props="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 719 - SMALL BUSINESS PROGRAMS&#xA;"
+      <topicref navtitle="PART 719—SMALL BUSINESS PROGRAMS&#xA;"
                 href="Part_719_T48_501416.dita"
-                props="PART 719"
+                props="PART 719—SMALL BUSINESS PROGRAMS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 719.2 - Policies"
+         <topicref navtitle="Subpart 719.2—Policies"
                    href="Subpart_719_2_T48_5014161.dita"
-                   props="Subpart 719.2"
+                   props="Subpart 719.2—Policies"
                    outputclass="SubPart">
             <topicref navtitle="719.270   Small business policies."
                       href="Section_719_270_T48_501416111.dita"
@@ -530,9 +530,9 @@
                       props="719.272"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 719.273 - The U.S. Agency for International Development (USAID) Mentor-Protégé Program"
+         <topicref navtitle="Subpart 719.273—The U.S. Agency for International Development (USAID) Mentor-Protégé Program"
                    href="Subpart_719_273_T48_5014162.dita"
-                   props="Subpart 719.273"
+                   props="Subpart 719.273—The U.S. Agency for International Development (USAID) Mentor-Protégé Program"
                    outputclass="SubPart">
             <topicref navtitle="719.273   The U.S. Agency for International Development (USAID) Mentor-Protégé Program."
                       href="Section_719_273_T48_501416211.dita"
@@ -583,9 +583,9 @@
                       props="719.273-11"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 719-7 - The Small Business Subcontracting Program"
+         <topicref navtitle="Subpart 719–7—The Small Business Subcontracting Program"
                    href="Subpart_719_T48_5014163.dita"
-                   props="Subpart 719-7 - The Small Business Subcontracting Program"
+                   props="Subpart 719–7—The Small Business Subcontracting Program"
                    outputclass="SubPart">
             <topicref navtitle="719.708   Contract clause."
                       href="Section_719_708_T48_501416311.dita"
@@ -593,13 +593,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 722 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITION&#xA;"
+      <topicref navtitle="PART 722—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITION&#xA;"
                 href="Part_722_T48_501417.dita"
-                props="PART 722"
+                props="PART 722—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 722.1 - Basic Labor Policies"
+         <topicref navtitle="Subpart 722.1—Basic Labor Policies"
                    href="Subpart_722_1_T48_5014171.dita"
-                   props="Subpart 722.1"
+                   props="Subpart 722.1—Basic Labor Policies"
                    outputclass="SubPart">
             <topicref navtitle="722.103   Overtime."
                       href="Section_722_103_T48_501417111.dita"
@@ -626,9 +626,9 @@
                       props="722.170"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 722.8 - Equal Employment Opportunity"
+         <topicref navtitle="Subpart 722.8—Equal Employment Opportunity"
                    href="Subpart_722_8_T48_5014172.dita"
-                   props="Subpart 722.8"
+                   props="Subpart 722.8—Equal Employment Opportunity"
                    outputclass="SubPart">
             <topicref navtitle="722.805-70   Procedures."
                       href="Section_722_805_70_T48_501417211.dita"
@@ -640,13 +640,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 724 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
+      <topicref navtitle="PART 724—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
                 href="Part_724_T48_501418.dita"
-                props="PART 724"
+                props="PART 724—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 724.2 - Freedom of Information Act"
+         <topicref navtitle="Subpart 724.2—Freedom of Information Act"
                    href="Subpart_724_2_T48_5014181.dita"
-                   props="Subpart 724.2"
+                   props="Subpart 724.2—Freedom of Information Act"
                    outputclass="SubPart">
             <topicref navtitle="724.202   Policy."
                       href="Section_724_202_T48_501418111.dita"
@@ -654,31 +654,31 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 725 - FOREIGN ACQUISITION&#xA;"
+      <topicref navtitle="PART 725—FOREIGN ACQUISITION&#xA;"
                 href="Part_725_T48_501419.dita"
-                props="PART 725"
+                props="PART 725—FOREIGN ACQUISITION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 725.1 - Buy American Act - Supplies"
+         <topicref navtitle="Subpart 725.1—Buy American Act—Supplies"
                    href="Subpart_725_1_T48_5014191.dita"
-                   props="Subpart 725.1"
+                   props="Subpart 725.1—Buy American Act—Supplies"
                    outputclass="SubPart">
             <topicref navtitle="725.170   Exceptions for Foreign Assistance Act functions."
                       href="Section_725_170_T48_501419111.dita"
                       props="725.170"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 725.4 - Trade Agreements"
+         <topicref navtitle="Subpart 725.4—Trade Agreements"
                    href="Subpart_725_4_T48_5014192.dita"
-                   props="Subpart 725.4"
+                   props="Subpart 725.4—Trade Agreements"
                    outputclass="SubPart">
             <topicref navtitle="725.403   Exceptions."
                       href="Section_725_403_T48_501419211.dita"
                       props="725.403"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 725.70 - Source and Nationality"
+         <topicref navtitle="Subpart 725.70—Source and Nationality"
                    href="Subpart_725_70_T48_5014193.dita"
-                   props="Subpart 725.70"
+                   props="Subpart 725.70—Source and Nationality"
                    outputclass="SubPart">
             <topicref navtitle="725.701   General."
                       href="Section_725_701_T48_501419311.dita"
@@ -688,7 +688,7 @@
                       href="Section_725_702_T48_501419312.dita"
                       props="725.702"
                       outputclass="Section"/>
-            <topicref navtitle="725.703   Source and Nationality requirements - Contract clause."
+            <topicref navtitle="725.703   Source and Nationality requirements—Contract clause."
                       href="Section_725_703_T48_501419313.dita"
                       props="725.703"
                       outputclass="Section"/>
@@ -698,49 +698,45 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 726 - OTHER SOCIOECONOMIC PROGRAMS&#xA;"
+      <topicref navtitle="PART 726—OTHER SOCIOECONOMIC PROGRAMS&#xA;"
                 href="Part_726_T48_501420.dita"
-                props="PART 726"
+                props="PART 726—OTHER SOCIOECONOMIC PROGRAMS"
                 outputclass="Part">
          <topicref navtitle="Subpart 726.70 [Reserved]"
                    href="Subpart_726_70_T48_5014201.dita"
                    props="Subpart 726.70"
                    outputclass="SubPart"/>
-         <topicref navtitle="Subpart 726.71 - Relocation of U.S. Businesses, Assistance to Export Processing Zones, Internationally Recognized Workers' Rights"
+         <topicref navtitle="Subpart 726.71—Trade and Investment Activities and the “Impact on U.S. Jobs” and “Workers' Rights"
                    href="Subpart_726_71_T48_5014202.dita"
-                   props="Subpart 726.71"
+                   props="Subpart 726.71—Trade and Investment Activities and the “Impact on U.S. Jobs” and “Workers' Rights"
                    outputclass="SubPart">
-            <topicref navtitle="726.7101   Policy."
+            <topicref navtitle="726.7101   Trade and Investment Activities and the “Impact on U.S. Jobs” and “Workers' Rights.”"
                       href="Section_726_7101_T48_501420211.dita"
                       props="726.7101"
-                      outputclass="Section"/>
-            <topicref navtitle="726.7102   PD 20 provision."
-                      href="Section_726_7102_T48_501420212.dita"
-                      props="726.7102"
                       outputclass="Section"/>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER E - GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
              href="Subchapter_E_T48_5015.dita"
-             props="SUBCHAPTER E"
+             props="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 727 - PATENTS, DATA, AND COPYRIGHTS&#xA;"
+      <topicref navtitle="PART 727—PATENTS, DATA, AND COPYRIGHTS&#xA;"
                 href="Part_727_T48_501521.dita"
-                props="PART 727"
+                props="PART 727—PATENTS, DATA, AND COPYRIGHTS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 727.3 - Patent Rights under Government Contracts"
+         <topicref navtitle="Subpart 727.3—Patent Rights under Government Contracts"
                    href="Subpart_727_3_T48_5015211.dita"
-                   props="Subpart 727.3"
+                   props="Subpart 727.3—Patent Rights under Government Contracts"
                    outputclass="SubPart">
             <topicref navtitle="727.303   Contract clause."
                       href="Section_727_303_T48_501521111.dita"
                       props="727.303"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 727.4 - Rights in Data and Copyrights"
+         <topicref navtitle="Subpart 727.4—Rights in Data and Copyrights"
                    href="Subpart_727_4_T48_5015212.dita"
-                   props="Subpart 727.4"
+                   props="Subpart 727.4—Rights in Data and Copyrights"
                    outputclass="SubPart">
             <topicref navtitle="727.404   Basic rights in data clause."
                       href="Section_727_404_T48_501521211.dita"
@@ -752,24 +748,24 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 728 - BONDS AND INSURANCE&#xA;"
+      <topicref navtitle="PART 728—BONDS AND INSURANCE&#xA;"
                 href="Part_728_T48_501522.dita"
-                props="PART 728"
+                props="PART 728—BONDS AND INSURANCE"
                 outputclass="Part">
-         <topicref navtitle="Subpart 728.1 - Bonds"
+         <topicref navtitle="Subpart 728.1—Bonds"
                    href="Subpart_728_1_T48_5015221.dita"
-                   props="Subpart 728.1"
+                   props="Subpart 728.1—Bonds"
                    outputclass="SubPart">
             <topicref navtitle="728.105-1   Advance payment bonds."
                       href="Section_728_105_1_T48_501522111.dita"
                       props="728.105-1"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 728.3 - Insurance"
+         <topicref navtitle="Subpart 728.3—Insurance"
                    href="Subpart_728_3_T48_5015222.dita"
-                   props="Subpart 728.3"
+                   props="Subpart 728.3—Insurance"
                    outputclass="SubPart">
-            <topicref navtitle="728.305-70   Overseas worker's compensation and war-hazard insurance - waivers and USAID insurance coverage."
+            <topicref navtitle="728.305-70   Overseas worker's compensation and war-hazard insurance—waivers and USAID insurance coverage."
                       href="Section_728_305_70_T48_501522211.dita"
                       props="728.305-70"
                       outputclass="Section"/>
@@ -791,13 +787,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 729 - TAXES&#xA;"
+      <topicref navtitle="PART 729—TAXES&#xA;"
                 href="Part_729_T48_501523.dita"
-                props="PART 729"
+                props="PART 729—TAXES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 729.4 - Contract Clauses"
+         <topicref navtitle="Subpart 729.4—Contract Clauses"
                    href="Subpart_729_4_T48_5015231.dita"
-                   props="Subpart 729.4"
+                   props="Subpart 729.4—Contract Clauses"
                    outputclass="SubPart">
             <topicref navtitle="729.402-70   Foreign contracts."
                       href="Section_729_402_70_T48_501523111.dita"
@@ -805,28 +801,28 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 731 - CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
+      <topicref navtitle="PART 731—CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
                 href="Part_731_T48_501524.dita"
-                props="PART 731"
+                props="PART 731—CONTRACT COST PRINCIPLES AND PROCEDURES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 731.1 - Applicability"
+         <topicref navtitle="Subpart 731.1—Applicability"
                    href="Subpart_731_1_T48_5015241.dita"
-                   props="Subpart 731.1"
+                   props="Subpart 731.1—Applicability"
                    outputclass="SubPart">
             <topicref navtitle="731.109   Advance agreements."
                       href="Section_731_109_T48_501524111.dita"
                       props="731.109"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 731.2 - Contracts With Commercial Organizations"
+         <topicref navtitle="Subpart 731.2—Contracts With Commercial Organizations"
                    href="Subpart_731_2_T48_5015242.dita"
-                   props="Subpart 731.2"
+                   props="Subpart 731.2—Contracts With Commercial Organizations"
                    outputclass="SubPart">
             <topicref navtitle="731.205-6   Compensation for personal services."
                       href="Section_731_205_6_T48_501524211.dita"
                       props="731.205-6"
                       outputclass="Section"/>
-            <topicref navtitle="731.205-43   Trade, business, technical and professional activity costs - USAID conference approval requirements."
+            <topicref navtitle="731.205-43   Trade, business, technical and professional activity costs—USAID conference approval requirements."
                       href="Section_731_205_43_T48_501524212.dita"
                       props="731.205-43"
                       outputclass="Section"/>
@@ -843,9 +839,9 @@
                       props="731.205-71"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 731.3 - Contracts With Educational Institutions"
+         <topicref navtitle="Subpart 731.3—Contracts With Educational Institutions"
                    href="Subpart_731_3_T48_5015243.dita"
-                   props="Subpart 731.3"
+                   props="Subpart 731.3—Contracts With Educational Institutions"
                    outputclass="SubPart">
             <topicref navtitle="731.370   Predetermined fixed rates for indirect costs."
                       href="Section_731_370_T48_501524311.dita"
@@ -863,12 +859,16 @@
                       href="Section_731_373_T48_501524314.dita"
                       props="731.373"
                       outputclass="Section"/>
+            <topicref navtitle="731.374   Conference approval requirements."
+                      href="Section_731_374_T48_501524315.dita"
+                      props="731.374"
+                      outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 731.7 - Contracts With Nonprofit Organizations"
+         <topicref navtitle="Subpart 731.7—Contracts With Nonprofit Organizations"
                    href="Subpart_731_7_T48_5015244.dita"
-                   props="Subpart 731.7"
+                   props="Subpart 731.7—Contracts With Nonprofit Organizations"
                    outputclass="SubPart">
-            <topicref navtitle="731.770   OMB Circular A-122, cost principles for nonprofit organizations; USAID implementation."
+            <topicref navtitle="731.770   OMB Circular A–122, cost principles for nonprofit organizations; USAID implementation."
                       href="Section_731_770_T48_501524411.dita"
                       props="731.770"
                       outputclass="Section"/>
@@ -888,15 +888,19 @@
                       href="Section_731_774_T48_501524415.dita"
                       props="731.774"
                       outputclass="Section"/>
+            <topicref navtitle="731.775   Conference approval requirements."
+                      href="Section_731_775_T48_501524416.dita"
+                      props="731.775"
+                      outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 732 - CONTRACT FINANCING&#xA;"
+      <topicref navtitle="PART 732—CONTRACT FINANCING&#xA;"
                 href="Part_732_T48_501525.dita"
-                props="PART 732"
+                props="PART 732—CONTRACT FINANCING"
                 outputclass="Part">
-         <topicref navtitle="Subpart 732.4 - Advance Payments for Non-Commercial Items"
+         <topicref navtitle="Subpart 732.4—Advance Payments for Non-Commercial Items"
                    href="Subpart_732_4_T48_5015251.dita"
-                   props="Subpart 732.4"
+                   props="Subpart 732.4—Advance Payments for Non-Commercial Items"
                    outputclass="SubPart">
             <topicref navtitle="732.401   Statutory authority."
                       href="Section_732_401_T48_501525111.dita"
@@ -932,13 +936,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 733 - PROTESTS, DISPUTES, AND APPEALS&#xA;"
+      <topicref navtitle="PART 733—PROTESTS, DISPUTES, AND APPEALS&#xA;"
                 href="Part_733_T48_501526.dita"
-                props="PART 733"
+                props="PART 733—PROTESTS, DISPUTES, AND APPEALS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 733.1 - Protests"
+         <topicref navtitle="Subpart 733.1—Protests"
                    href="Subpart_733_1_T48_5015261.dita"
-                   props="Subpart 733.1"
+                   props="Subpart 733.1—Protests"
                    outputclass="SubPart">
             <topicref navtitle="733.101   Definitions."
                       href="Section_733_101_T48_501526111.dita"
@@ -961,9 +965,9 @@
                       props="733.103-73"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 733.27 - USAID Procedures for Disputes and Appeals"
+         <topicref navtitle="Subpart 733.27—USAID Procedures for Disputes and Appeals"
                    href="Subpart_733_27_T48_5015262.dita"
-                   props="Subpart 733.27"
+                   props="Subpart 733.27—USAID Procedures for Disputes and Appeals"
                    outputclass="SubPart">
             <topicref navtitle="733.270   Designation of Civilian Board of Contract Appeals (CBCA) to hear and determine appeals under USAID contracts."
                       href="Section_733_270_T48_501526211.dita"
@@ -972,35 +976,35 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER F - SPECIAL CATEGORIES OF CONTRACTING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING&#xA;&#xA;&#xA;"
              href="Subchapter_F_T48_5016.dita"
-             props="SUBCHAPTER F"
+             props="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING"
              outputclass="SubChapter">
-      <topicref navtitle="PART 734 - MAJOR SYSTEM ACQUISITION&#xA;"
+      <topicref navtitle="PART 734—MAJOR SYSTEM ACQUISITION&#xA;"
                 href="Part_734_T48_501627.dita"
-                props="PART 734"
+                props="PART 734—MAJOR SYSTEM ACQUISITION"
                 outputclass="Part">
          <topicref navtitle="734.002-70   USAID policy."
                    href="Section_734_002_70_T48_501627011.dita"
                    props="734.002-70"
                    outputclass="Section"/>
       </topicref>
-      <topicref navtitle="PART 736 - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS&#xA;"
+      <topicref navtitle="PART 736—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS&#xA;"
                 href="Part_736_T48_501628.dita"
-                props="PART 736"
+                props="PART 736—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 736.5 - Contract Clauses"
+         <topicref navtitle="Subpart 736.5—Contract Clauses"
                    href="Subpart_736_5_T48_5016281.dita"
-                   props="Subpart 736.5"
+                   props="Subpart 736.5—Contract Clauses"
                    outputclass="SubPart">
             <topicref navtitle="736.570   Disability standards in construction contracts."
                       href="Section_736_570_T48_501628111.dita"
                       props="736.570"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 736.6 - Architect-Engineer Services"
+         <topicref navtitle="Subpart 736.6—Architect-Engineer Services"
                    href="Subpart_736_6_T48_5016282.dita"
-                   props="Subpart 736.6"
+                   props="Subpart 736.6—Architect-Engineer Services"
                    outputclass="SubPart">
             <topicref navtitle="736.602-2   Evaluation boards."
                       href="Section_736_602_2_T48_501628211.dita"
@@ -1033,26 +1037,26 @@
                 props="PART 737"
                 outputclass="Part"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER G - CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
              href="Subchapter_G_T48_5017.dita"
-             props="SUBCHAPTER G"
+             props="SUBCHAPTER G—CONTRACT MANAGEMENT"
              outputclass="SubChapter">
-      <topicref navtitle="PART 742 - CONTRACT ADMINISTRATION&#xA;"
+      <topicref navtitle="PART 742—CONTRACT ADMINISTRATION&#xA;"
                 href="Part_742_T48_501730.dita"
-                props="PART 742"
+                props="PART 742—CONTRACT ADMINISTRATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 742.7 - Indirect Cost Rates"
+         <topicref navtitle="Subpart 742.7—Indirect Cost Rates"
                    href="Subpart_742_7_T48_5017301.dita"
-                   props="Subpart 742.7"
+                   props="Subpart 742.7—Indirect Cost Rates"
                    outputclass="SubPart">
             <topicref navtitle="742.770   Negotiated indirect cost rate agreement."
                       href="Section_742_770_T48_501730111.dita"
                       props="742.770"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 742.11 - Production, Surveillance, and Reporting"
+         <topicref navtitle="Subpart 742.11—Production, Surveillance, and Reporting"
                    href="Subpart_742_11_T48_5017302.dita"
-                   props="Subpart 742.11"
+                   props="Subpart 742.11—Production, Surveillance, and Reporting"
                    outputclass="SubPart">
             <topicref navtitle="742.1170   Performance monitoring and progress reporting."
                       href="Section_742_1170_T48_501730211.dita"
@@ -1075,9 +1079,9 @@
                       props="742.1170-4"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 742.15 - Contractor Performance Information"
+         <topicref navtitle="Subpart 742.15—Contractor Performance Information"
                    href="Subpart_742_15_T48_5017303.dita"
-                   props="Subpart 742.15"
+                   props="Subpart 742.15—Contractor Performance Information"
                    outputclass="SubPart">
             <topicref navtitle="742.1501   [Reserved]"
                       href="Section_742_1501_T48_501730311.dita"
@@ -1093,13 +1097,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 744 - SUBCONTRACTING POLICIES AND PROCEDURES&#xA;"
+      <topicref navtitle="PART 744—SUBCONTRACTING POLICIES AND PROCEDURES&#xA;"
                 href="Part_744_T48_501731.dita"
-                props="PART 744"
+                props="PART 744—SUBCONTRACTING POLICIES AND PROCEDURES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 744.2 - Consent to Subcontracts"
+         <topicref navtitle="Subpart 744.2—Consent to Subcontracts"
                    href="Subpart_744_2_T48_5017311.dita"
-                   props="Subpart 744.2"
+                   props="Subpart 744.2—Consent to Subcontracts"
                    outputclass="SubPart">
             <topicref navtitle="744.202-170   Partner vetting."
                       href="Section_744_202_170_T48_501731111.dita"
@@ -1107,13 +1111,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 745 - GOVERNMENT PROPERTY&#xA;"
+      <topicref navtitle="PART 745—GOVERNMENT PROPERTY&#xA;"
                 href="Part_745_T48_501732.dita"
-                props="PART 745"
+                props="PART 745—GOVERNMENT PROPERTY"
                 outputclass="Part">
-         <topicref navtitle="Subpart 745.1 - General"
+         <topicref navtitle="Subpart 745.1—General"
                    href="Subpart_745_1_T48_5017321.dita"
-                   props="Subpart 745.1"
+                   props="Subpart 745.1—General"
                    outputclass="SubPart">
             <topicref navtitle="745.107   Contract clauses."
                       href="Section_745_107_T48_501732111.dita"
@@ -1121,13 +1125,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 747 - TRANSPORTATION&#xA;"
+      <topicref navtitle="PART 747—TRANSPORTATION&#xA;"
                 href="Part_747_T48_501733.dita"
-                props="PART 747"
+                props="PART 747—TRANSPORTATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 747.5 - Ocean Transportation by U.S.-Flag Vessels"
+         <topicref navtitle="Subpart 747.5—Ocean Transportation by U.S.-Flag Vessels"
                    href="Subpart_747_5_T48_5017331.dita"
-                   props="Subpart 747.5"
+                   props="Subpart 747.5—Ocean Transportation by U.S.-Flag Vessels"
                    outputclass="SubPart">
             <topicref navtitle="747.507   Contract clauses."
                       href="Section_747_507_T48_501733111.dita"
@@ -1135,13 +1139,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 749 - TERMINATION OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 749—TERMINATION OF CONTRACTS&#xA;"
                 href="Part_749_T48_501734.dita"
-                props="PART 749"
+                props="PART 749—TERMINATION OF CONTRACTS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 749.1 - General Principles"
+         <topicref navtitle="Subpart 749.1—General Principles"
                    href="Subpart_749_1_T48_5017341.dita"
-                   props="Subpart 749.1"
+                   props="Subpart 749.1—General Principles"
                    outputclass="SubPart">
             <topicref navtitle="749.100   Scope of subpart."
                       href="Section_749_100_T48_501734111.dita"
@@ -1161,9 +1165,9 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 750 - EXTRAORDINARY CONTRACTUAL ACTIONS&#xA;"
+      <topicref navtitle="PART 750—EXTRAORDINARY CONTRACTUAL ACTIONS&#xA;"
                 href="Part_750_T48_501735.dita"
-                props="PART 750"
+                props="PART 750—EXTRAORDINARY CONTRACTUAL ACTIONS"
                 outputclass="Part">
          <topicref navtitle="750.000   Scope of part."
                    href="Section_750_000_T48_501735011.dita"
@@ -1173,9 +1177,9 @@
                    href="Subpart_750_70_T48_5017351.dita"
                    props="Subpart 750.70"
                    outputclass="SubPart"/>
-         <topicref navtitle="Subpart 750.71 - Extraordinary Contractual Actions To Protect Foreign Policy Interests of the United States"
+         <topicref navtitle="Subpart 750.71—Extraordinary Contractual Actions To Protect Foreign Policy Interests of the United States"
                    href="Subpart_750_71_T48_5017352.dita"
-                   props="Subpart 750.71"
+                   props="Subpart 750.71—Extraordinary Contractual Actions To Protect Foreign Policy Interests of the United States"
                    outputclass="SubPart">
             <topicref navtitle="750.7100   Scope of subpart."
                       href="Section_750_7100_T48_501735211.dita"
@@ -1276,17 +1280,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER H - CLAUSES AND FORMS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER H—CLAUSES AND FORMS&#xA;&#xA;&#xA;"
              href="Subchapter_H_T48_5018.dita"
-             props="SUBCHAPTER H"
+             props="SUBCHAPTER H—CLAUSES AND FORMS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 752 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;"
+      <topicref navtitle="PART 752—SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;"
                 href="Part_752_T48_501836.dita"
-                props="PART 752"
+                props="PART 752—SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 752.1 - Instructions for Using Provisions and Clauses"
+         <topicref navtitle="Subpart 752.1—Instructions for Using Provisions and Clauses"
                    href="Subpart_752_1_T48_5018361.dita"
-                   props="Subpart 752.1"
+                   props="Subpart 752.1—Instructions for Using Provisions and Clauses"
                    outputclass="SubPart">
             <topicref navtitle="752.102   Incorporating provisions and clauses."
                       href="Section_752_102_T48_501836111.dita"
@@ -1297,9 +1301,9 @@
                       props="752.107"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 752.2 - Texts of Provisions and Clauses"
+         <topicref navtitle="Subpart 752.2—Texts of Provisions and Clauses"
                    href="Subpart_752_2_T48_5018362.dita"
-                   props="Subpart 752.2"
+                   props="Subpart 752.2—Texts of Provisions and Clauses"
                    outputclass="SubPart">
             <topicref navtitle="752.200   Scope of subpart."
                       href="Section_752_200_T48_501836211.dita"
@@ -1361,7 +1365,7 @@
                       href="Section_752_222_71_T48_5018362115.dita"
                       props="752.222-71"
                       outputclass="Section"/>
-            <topicref navtitle="752.225-9   Buy American Act - Trade Agreements Act - Balance of Payments Program."
+            <topicref navtitle="752.225-9   Buy American Act—Trade Agreements Act—Balance of Payments Program."
                       href="Section_752_225_9_T48_5018362116.dita"
                       props="752.225-9"
                       outputclass="Section"/>
@@ -1370,89 +1374,93 @@
                       props="752.225-70"
                       outputclass="Section"/>
             <topicref navtitle="752.226-1--752.226-3   [Reserved]"
-                      href="Section_752_226_1_752_226_3_T48_5018362118.dita"
+                      href="Section_752_226_1—752_226_3_T48_5018362118.dita"
                       props="752.226-1"
                       outputclass="Section"/>
-            <topicref navtitle="752.227-14   Rights in Data - general."
-                      href="Section_752_227_14_T48_5018362119.dita"
+            <topicref navtitle="752.226-70   Trade and Investment Activities and the “Impact on U.S. Jobs” and “Workers' Rights.”"
+                      href="Section_752_226_70_T48_5018362119.dita"
+                      props="752.226-70"
+                      outputclass="Section"/>
+            <topicref navtitle="752.227-14   Rights in Data—general."
+                      href="Section_752_227_14_T48_5018362120.dita"
                       props="752.227-14"
                       outputclass="Section"/>
             <topicref navtitle="752.227-70   Patent reporting procedures."
-                      href="Section_752_227_70_T48_5018362120.dita"
+                      href="Section_752_227_70_T48_5018362121.dita"
                       props="752.227-70"
                       outputclass="Section"/>
             <topicref navtitle="752.228-3   Worker's compensation insurance (Defense Base Act)."
-                      href="Section_752_228_3_T48_5018362121.dita"
+                      href="Section_752_228_3_T48_5018362122.dita"
                       props="752.228-3"
                       outputclass="Section"/>
-            <topicref navtitle="752.228-7   Insurance - liability to third persons."
-                      href="Section_752_228_7_T48_5018362122.dita"
+            <topicref navtitle="752.228-7   Insurance—liability to third persons."
+                      href="Section_752_228_7_T48_5018362123.dita"
                       props="752.228-7"
                       outputclass="Section"/>
             <topicref navtitle="752.228-9   Cargo insurance."
-                      href="Section_752_228_9_T48_5018362123.dita"
+                      href="Section_752_228_9_T48_5018362124.dita"
                       props="752.228-9"
                       outputclass="Section"/>
             <topicref navtitle="752.228-70   Medical Evacuation (MEDEVAC) Services."
-                      href="Section_752_228_70_T48_5018362124.dita"
+                      href="Section_752_228_70_T48_5018362125.dita"
                       props="752.228-70"
                       outputclass="Section"/>
             <topicref navtitle="752.229-70   Federal, state and local taxes."
-                      href="Section_752_229_70_T48_5018362125.dita"
+                      href="Section_752_229_70_T48_5018362126.dita"
                       props="752.229-70"
                       outputclass="Section"/>
-            <topicref navtitle="752.229-71   Reporting of foreign taxes."
-                      href="Section_752_229_71_T48_5018362126.dita"
+            <topicref navtitle="752.229-71   Reporting of Foreign Taxes"
+                      href="Section_752_229_71_T48_5018362127.dita"
                       props="752.229-71"
                       outputclass="Section"/>
             <topicref navtitle="752.231-71   Salary supplements for HG employees."
-                      href="Section_752_231_71_T48_5018362127.dita"
+                      href="Section_752_231_71_T48_5018362128.dita"
                       props="752.231-71"
                       outputclass="Section"/>
-            <topicref navtitle="752.231-72   Conference planning and required approvals."
-                      href="Section_752_231_72_T48_5018362128.dita"
+            <topicref navtitle="752.231-72   Conference planning and required approval"
+                      href="Section_752_231_72_T48_5018362129.dita"
                       props="752.231-72"
                       outputclass="Section"/>
             <topicref navtitle="752.232-70   Letter of credit advance payment."
-                      href="Section_752_232_70_T48_5018362129.dita"
+                      href="Section_752_232_70_T48_5018362130.dita"
                       props="752.232-70"
                       outputclass="Section"/>
             <topicref navtitle="752.236-70   Standards for accessibility for the disabled in USAID construction contracts."
-                      href="Section_752_236_70_T48_5018362130.dita"
+                      href="Section_752_236_70_T48_5018362131.dita"
                       props="752.236-70"
                       outputclass="Section"/>
             <topicref navtitle="752.242-70   Periodic progress reports."
-                      href="Section_752_242_70_T48_5018362131.dita"
+                      href="Section_752_242_70_T48_5018362132.dita"
                       props="752.242-70"
                       outputclass="Section"/>
-            <topicref navtitle="752.245-70   Government property - USAID reporting requirements."
-                      href="Section_752_245_70_T48_5018362132.dita"
+            <topicref navtitle="752.245-70   Government property—USAID reporting requirements."
+                      href="Section_752_245_70_T48_5018362133.dita"
                       props="752.245-70"
                       outputclass="Section"/>
             <topicref navtitle="752.245-71   Title to and care of property."
-                      href="Section_752_245_71_T48_5018362133.dita"
+                      href="Section_752_245_71_T48_5018362134.dita"
                       props="752.245-71"
                       outputclass="Section"/>
             <topicref navtitle="752.247-70   Preference for privately owned U.S.-flag commercial vessels."
-                      href="Section_752_247_70_T48_5018362134.dita"
+                      href="Section_752_247_70_T48_5018362135.dita"
                       props="752.247-70"
                       outputclass="Section"/>
             <topicref navtitle="752.252-1   AIDAR solicitation provisions incorporated by reference"
-                      href="Section_752_252_1_T48_5018362135.dita"
+                      href="Section_752_252_1_T48_5018362136.dita"
                       props="752.252-1"
                       outputclass="Section"/>
             <topicref navtitle="752.252-2   AIDAR clauses incorporated by reference"
-                      href="Section_752_252_2_T48_5018362136.dita"
+                      href="Section_752_252_2_T48_5018362137.dita"
                       props="752.252-2"
                       outputclass="Section"/>
             <topicref navtitle="752.252-70   Provisions and clauses to be completed by the offeror."
-                      href="Section_752_252_70_T48_5018362137.dita"
+                      href="Section_752_252_70_T48_5018362138.dita"
                       props="752.252-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 752.70 - Texts of USAID Contract Clauses"
+         <topicref navtitle="Subpart 752.70—Texts of USAID Contract Clauses"
                    href="Subpart_752_70_T48_5018363.dita"
-                   props="Subpart 752.70"
+                   props="Subpart 752.70—Texts of USAID Contract Clauses"
                    outputclass="SubPart">
             <topicref navtitle="752.7000   Scope of subpart."
                       href="Section_752_7000_T48_501836311.dita"
@@ -1607,36 +1615,36 @@
                       props="752.7038"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 752.3-70 - USAID Clause Matrices [Reserved]"
+         <topicref navtitle="Subpart 752.3–70—USAID Clause Matrices [Reserved]"
                    href="Subpart_752_3_T48_5018364.dita"
-                   props="Subpart 752.3-70 - USAID Clause Matrices [Reserved]"
+                   props="Subpart 752.3–70—USAID Clause Matrices [Reserved]"
                    outputclass="SubPart"/>
       </topicref>
-      <topicref navtitle="PART 753 - FORMS&#xA;"
+      <topicref navtitle="PART 753—FORMS&#xA;"
                 href="Part_753_T48_501837.dita"
-                props="PART 753"
+                props="PART 753—FORMS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 753.1 - General"
+         <topicref navtitle="Subpart 753.1—General"
                    href="Subpart_753_1_T48_5018371.dita"
-                   props="Subpart 753.1"
+                   props="Subpart 753.1—General"
                    outputclass="SubPart">
             <topicref navtitle="753.107   Obtaining forms."
                       href="Section_753_107_T48_501837111.dita"
                       props="753.107"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 753.2 - Prescription of Forms"
+         <topicref navtitle="Subpart 753.2—Prescription of Forms"
                    href="Subpart_753_2_T48_5018372.dita"
-                   props="Subpart 753.2"
+                   props="Subpart 753.2—Prescription of Forms"
                    outputclass="SubPart">
             <topicref navtitle="753.270   Prescription of USAID forms."
                       href="Section_753_270_T48_501837211.dita"
                       props="753.270"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 753.3 - Illustration of Forms"
+         <topicref navtitle="Subpart 753.3—Illustration of Forms"
                    href="Subpart_753_3_T48_5018373.dita"
-                   props="Subpart 753.3"
+                   props="Subpart 753.3—Illustration of Forms"
                    outputclass="SubPart">
             <topicref navtitle="753.300   Scope of subpart."
                       href="Section_753_300_T48_501837311.dita"
@@ -1644,37 +1652,37 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PARTS 754-799 [RESERVED]&#xA;&#xA;&#xA;"
-                href="Part_754_799_T48_501838.dita"
-                props="PARTS 754-799 [RESERVED]"
+      <topicref navtitle="PARTS 754–799 [RESERVED]&#xA;&#xA;&#xA;"
+                href="Part_754–799_T48_501838.dita"
+                props="PARTS 754–799 [RESERVED]"
                 outputclass="Part"/>
-      <topicref navtitle="Appendixes A-C to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
+      <topicref navtitle="Appendixes A–C to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
                 href="tce_48_5018390111.dita"
-                props="Appendixes A-C to Chapter 7 [Reserved]"
+                props="Appendixes A–C to Chapter 7 [Reserved]"
                 outputclass="Appendix"/>
-      <topicref navtitle="Appendix D to Chapter 7 - Direct USAID Contracts With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad&#xA;"
+      <topicref navtitle="Appendix D to Chapter 7—Direct USAID Contracts With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad&#xA;"
                 href="Appendix_AppendixD_T48_5018390112.dita"
-                props="Appendix D to Chapter 7 - Direct USAID Contracts With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad"
+                props="Appendix D to Chapter 7—Direct USAID Contracts With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad"
                 outputclass="Appendix"/>
       <topicref navtitle="Appendix E to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
                 href="Appendix_AppendixE_T48_5018390113.dita"
                 props="Appendix E to Chapter 7 [Reserved]"
                 outputclass="Appendix"/>
-      <topicref navtitle="Appendix F to Chapter 7 - Use of Collaborative Assistance Method for Title XII Activities&#xA;"
+      <topicref navtitle="Appendix F to Chapter 7—Use of Collaborative Assistance Method for Title XII Activities&#xA;"
                 href="Appendix_AppendixF_T48_5018390114.dita"
-                props="Appendix F to Chapter 7 - Use of Collaborative Assistance Method for Title XII Activities"
+                props="Appendix F to Chapter 7—Use of Collaborative Assistance Method for Title XII Activities"
                 outputclass="Appendix"/>
-      <topicref navtitle="Appendixes G-H to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
+      <topicref navtitle="Appendixes G–H to Chapter 7 [Reserved]&#xA;&#xA;&#xA;"
                 href="tce_48_5018390115.dita"
-                props="Appendixes G-H to Chapter 7 [Reserved]"
+                props="Appendixes G–H to Chapter 7 [Reserved]"
                 outputclass="Appendix"/>
-      <topicref navtitle="Appendix I to Chapter 7 - USAID's Academic Publication Policy&#xA;"
+      <topicref navtitle="Appendix I to Chapter 7—USAID's Academic Publication Policy&#xA;"
                 href="Appendix_AppendixI_T48_5018390116.dita"
-                props="Appendix I to Chapter 7 - USAID's Academic Publication Policy"
+                props="Appendix I to Chapter 7—USAID's Academic Publication Policy"
                 outputclass="Appendix"/>
-      <topicref navtitle="Appendix J to Chapter 7 - Direct USAID Contracts With a Cooperating Country National and With a Third Country National for Personal Services Abroad&#xA;&#xA;&#xA;"
+      <topicref navtitle="Appendix J to Chapter 7—Direct USAID Contracts With a Cooperating Country National and With a Third Country National for Personal Services Abroad&#xA;&#xA;&#xA;"
                 href="Appendix_AppendixJ_T48_5018390117.dita"
-                props="Appendix J to Chapter 7 - Direct USAID Contracts With a Cooperating Country National and With a Third Country National for Personal Services Abroad"
+                props="Appendix J to Chapter 7—Direct USAID Contracts With a Cooperating Country National and With a Third Country National for Personal Services Abroad"
                 outputclass="Appendix"/>
    </topicref>
 </map>

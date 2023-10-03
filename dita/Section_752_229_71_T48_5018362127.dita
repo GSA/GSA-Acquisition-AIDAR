@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_752_229_71_T48_5018362127">
+      <title class="- topic/title ">
+         <ph props="autonumber">752.229-71</ph> Reporting of Foreign Taxes</title>
+      <conbody>
+         <p xtrc="P">As prescribed in (48 CFR) AIDAR 729.402–70(b), insert the following clause in applicable solicitations and resulting contracts. The contracting officer must insert the address and point of contact at the Embassy, Mission, or M/CFO/CMP as appropriate under paragraph (d) of this clause.
+</p>
+                                 <p xtrc="HD1">Reporting of Foreign Taxes (Jul 2023)
+</p>
+                                 <p outputclass="List1">(a) <i>Definitions.</i> As used in this clause—
+</p>
+                                 <p xtrc="P">
+                                    <i>Foreign government</i> includes any foreign governmental entity.
+</p>
+                                 <p xtrc="P">
+                                    <i>Foreign taxes</i> include value-added taxes and customs duties but not individual income taxes assessed to local staff.
+</p>
+                                 <p xtrc="P">
+                                    <i>Local staff</i> means Cooperating Country National employees.
+</p>
+                                 <p props="Runin" outputclass="List1">(b) <i>Annual report.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			The Contractor must submit a report detailing foreign taxes assessed under this contract during the prior U.S. government fiscal year. The report must be submitted annually by April 16.
+</p>
+                                 <p outputclass="List2">(2) A report is required even if the Contractor did not pay any foreign taxes during the reporting period. A cumulative report may be provided if the Contractor is performing more than one award in the foreign country.
+</p>
+                                 <p outputclass="List1">(c) <i>Contents of report.</i> The report must contain:
+</p>
+                                 <p outputclass="List2">(1) Contractor name.
+</p>
+                                 <p outputclass="List2">(2) Contact name with phone number and email address.
+</p>
+                                 <p outputclass="List2">(3) Contract number(s).
+</p>
+                                 <p outputclass="List2">(4) Amount of foreign taxes assessed by each foreign government (listed separately) under this contract during the prior U.S. Government fiscal year.
+</p>
+                                 <p outputclass="List3">(i) Taxes assessed on any individual transaction of less than $500 should not be reported.
+</p>
+                                 <p outputclass="List3">(ii) The Contractor must report only foreign taxes assessed by a foreign government receiving U.S. assistance under this contract. The Contractor must not report on foreign taxes assessed by a third-party foreign government.
+</p>
+                                 <p outputclass="List2">(5) Any reimbursements of foreign taxes received by the Contractor on the taxes reported in paragraph (c)(4) of this clause received through the date of the report.
+</p>
+                                 <p outputclass="List1">(d) <i>Submission of report.</i> The Contractor must submit the report to: [<i>Contracting Officer must insert address and point of contact at the Embassy or Mission in the country in which the contract will be performed, or CFO/CMP for USAID/W-issued contracts, as appropriate</i>], with a copy to the Contracting Officer's Representative.
+</p>
+                                 <p outputclass="List1">(e) <i>Subcontracts.</i> The Contractor must include this reporting requirement in all subcontracts issued under this contract. The Contractor shall collect and incorporate into the Contractor's report all information received from subcontractors pursuant to this clause.</p>
+                              <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

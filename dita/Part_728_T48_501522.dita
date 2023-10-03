@@ -3,12 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_728_T48_501522">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 728</ph> - BONDS AND INSURANCE</title>
+      <title class="- topic/title ">PART 728—BONDS AND INSURANCE
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           Sec. 621, Pub. L. 87-195, 75 Stat. 445, (22 U.S.C. 2381) as amended; E.O. 12163, Sept. 29, 1979, 44 FR 56673; 3 CFR, 1979 Comp., p. 435.
+                           Sec. 621, Pub. L. 87–195, 75 Stat. 445, (22 U.S.C. 2381) as amended; E.O. 12163, Sept. 29, 1979, 44 FR 56673; 3 CFR, 1979 Comp., p. 435.
 
                         </p>
          <p>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_728_1_T48_5015221.dita#Subpart_728_1_T48_5015221">Subpart 728.1 - Bonds</xref>
+                        href="Subpart_728_1_T48_5015221.dita#Subpart_728_1_T48_5015221">Subpart 728.1—Bonds</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,13 +36,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_728_3_T48_5015222.dita#Subpart_728_3_T48_5015222">Subpart 728.3 - Insurance</xref>
+                        href="Subpart_728_3_T48_5015222.dita#Subpart_728_3_T48_5015222">Subpart 728.3—Insurance</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_728_305_70_T48_501522211.dita#Section_728_305_70_T48_501522211">728.305-70 Overseas worker's compensation and war-hazard insurance - waivers and USAID insurance coverage.</xref>
+                              href="Section_728_305_70_T48_501522211.dita#Section_728_305_70_T48_501522211">728.305-70 Overseas worker's compensation and war-hazard insurance—waivers and USAID insurance coverage.</xref>
                      </p>
                   </li>
                   <li>
