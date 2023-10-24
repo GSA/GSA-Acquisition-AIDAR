@@ -6,8 +6,10 @@
       <title class="- topic/title ">
          <ph props="autonumber">709.503</ph> Waiver.</title>
       <conbody>
-         <p xtrc="P">For purposes of approving waivers or further delegating the authority to approve waivers pursuant to (48 CFR) FAR 9.503, the M/OAA Director is the agency head (see (48 CFR) AIDAR 701.601(a)(1)). The M/OAA Director hereby delegates the authority to approve waivers pursuant to (48 CFR) FAR 9.503 to the heads of USAID contracting activities, as defined in (48 CFR) AIDAR 702.170.
-</p>
+         <p xtrc="P">For purposes of approving waivers or further delegating the authority to approve waivers pursuant to (48 CFR) FAR 9.503, the M/OAA Director is the agency head (see (48 CFR) AIDAR 701.601(a)(1)). The M/OAA Director hereby delegates the authority to approve waivers pursuant to (48 CFR) FAR 9.503 to the heads of USAID contracting activities, as defined in (48 CFR) AIDAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_702_170_T48_501131"
+                  href="Subpart_702_170_T48_501131.dita#Subpart_702_170_T48_501131">702.170</xref>.</p>
       </conbody>
    </concept>
 </dita>
