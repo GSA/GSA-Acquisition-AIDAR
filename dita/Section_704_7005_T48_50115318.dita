@@ -14,8 +14,10 @@
 </p>
          <p outputclass="List2">(2) Use the clause with its Alternate I when USAID determines that subcontracts at any tier for certain classes of supplies or services are subject to vetting.
 </p>
-         <p outputclass="List1">(c) For awards made under FAR part 16, see (48 CFR) AIDAR subpart 716.5.
-</p>
+         <p outputclass="List1">(c) For awards made under FAR part 16, see (48 CFR) AIDAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_716_5_T48_5013142"
+                  href="Subpart_716_5_T48_5013142.dita#Subpart_716_5_T48_5013142">716.5</xref>.</p>
       </conbody>
    </concept>
 </dita>
