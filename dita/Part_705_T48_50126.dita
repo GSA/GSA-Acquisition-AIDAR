@@ -23,19 +23,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_705_2_T48_501261.dita#Subpart_705_2_T48_501261">Subpart 705.2—Synopsis of Proposed Contract Actions</xref>
+                        href="Subpart_705_1_T48_501261.dita#Subpart_705_1_T48_501261">Subpart 705.1 xxx</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_705_202_T48_50126111.dita#Section_705_202_T48_50126111">705.202 Exceptions.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_705_207_T48_50126112.dita#Section_705_207_T48_50126112">705.207 [Reserved]</xref>
+                              href="Section__T48_50126111.dita#Section__T48_50126111"/>
                      </p>
                   </li>
                </ul>
@@ -43,13 +37,33 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_705_5_T48_501262.dita#Subpart_705_5_T48_501262">Subpart 705.5—Paid Advertisement</xref>
+                        href="Subpart_705_2_T48_501262.dita#Subpart_705_2_T48_501262">Subpart 705.2—Synopsis of Proposed Contract Actions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_705_502_T48_50126211.dita#Section_705_502_T48_50126211">705.502 Authority.</xref>
+                              href="Section_705_202_T48_50126211.dita#Section_705_202_T48_50126211">705.202 Exceptions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_705_207_T48_50126212.dita#Section_705_207_T48_50126212">705.207 [Reserved]</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_705_5_T48_501263.dita#Subpart_705_5_T48_501263">Subpart 705.5—Paid Advertisement</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_705_502_T48_50126311.dita#Section_705_502_T48_50126311">705.502 Authority.</xref>
                      </p>
                   </li>
                </ul>
