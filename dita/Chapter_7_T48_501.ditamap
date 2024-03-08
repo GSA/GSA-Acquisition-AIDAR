@@ -138,7 +138,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 704—ADMINISTRATIVE MATTERS&#xA;"
+      <topicref navtitle="PART 704—ADMINISTRATIVE MATTERS&#xA;&#xA;&#xA;"
                 href="Part_704_T48_50115.dita"
                 outputclass="Part"
                 props="Part 704">
@@ -151,44 +151,62 @@
                       props="704.404"
                       outputclass="Section"/>
          </topicref>
+         <topicref navtitle="Subpart 704.5 xxx"
+                   href="Subpart_704_5_T48_501152.dita"
+                   outputclass="SubPart"
+                   props="Subpart 704.5">
+            <topicref navtitle="     "
+                      href="Section__T48_50115211.dita"
+                      props=""
+                      outputclass="Section"/>
+         </topicref>
          <topicref navtitle="Subpart 704.8—Contract Files [Reserved]"
-                   href="Subpart_704_8_T48_501152.dita"
+                   href="Subpart_704_8_T48_501153.dita"
                    outputclass="SubPart"
                    props="Subpart 704.8"/>
+         <topicref navtitle="Subpart 704.21 xxx"
+                   href="Subpart_704_21_T48_501154.dita"
+                   outputclass="SubPart"
+                   props="Subpart 704.21">
+            <topicref navtitle="     "
+                      href="Section__T48_50115411.dita"
+                      props=""
+                      outputclass="Section"/>
+         </topicref>
          <topicref navtitle="Subpart 704.70—Partner Vetting"
-                   href="Subpart_704_70_T48_501153.dita"
+                   href="Subpart_704_70_T48_501155.dita"
                    outputclass="SubPart"
                    props="Subpart 704.70">
             <topicref navtitle="704.7001   Scope of subpart."
-                      href="Section_704_7001_T48_50115311.dita"
+                      href="Section_704_7001_T48_50115511.dita"
                       props="704.7001"
                       outputclass="Section"/>
             <topicref navtitle="704.7002   Definitions."
-                      href="Section_704_7002_T48_50115312.dita"
+                      href="Section_704_7002_T48_50115512.dita"
                       props="704.7002"
                       outputclass="Section"/>
             <topicref navtitle="704.7003   Policy."
-                      href="Section_704_7003_T48_50115313.dita"
+                      href="Section_704_7003_T48_50115513.dita"
                       props="704.7003"
                       outputclass="Section"/>
             <topicref navtitle="704.7004   Procedures."
-                      href="Section_704_7004_T48_50115314.dita"
+                      href="Section_704_7004_T48_50115514.dita"
                       props="704.7004"
                       outputclass="Section"/>
             <topicref navtitle="704.7004-1   Preaward requirements."
-                      href="Section_704_7004_1_T48_50115315.dita"
+                      href="Section_704_7004_1_T48_50115515.dita"
                       props="704.7004-1"
                       outputclass="Section"/>
             <topicref navtitle="704.7004-2   Post award requirements."
-                      href="Section_704_7004_2_T48_50115316.dita"
+                      href="Section_704_7004_2_T48_50115516.dita"
                       props="704.7004-2"
                       outputclass="Section"/>
             <topicref navtitle="704.7004-3   Subcontracts."
-                      href="Section_704_7004_3_T48_50115317.dita"
+                      href="Section_704_7004_3_T48_50115517.dita"
                       props="704.7004-3"
                       outputclass="Section"/>
             <topicref navtitle="704.7005   Solicitation provision and contract clause."
-                      href="Section_704_7005_T48_50115318.dita"
+                      href="Section_704_7005_T48_50115518.dita"
                       props="704.7005"
                       outputclass="Section"/>
          </topicref>
@@ -206,25 +224,34 @@
                    href="Section_705_002_T48_50126011.dita"
                    props="705.002"
                    outputclass="Section"/>
+         <topicref navtitle="Subpart 705.1 xxx"
+                   href="Subpart_705_1_T48_501261.dita"
+                   outputclass="SubPart"
+                   props="Subpart 705.1">
+            <topicref navtitle="     "
+                      href="Section__T48_50126111.dita"
+                      props=""
+                      outputclass="Section"/>
+         </topicref>
          <topicref navtitle="Subpart 705.2—Synopsis of Proposed Contract Actions"
-                   href="Subpart_705_2_T48_501261.dita"
+                   href="Subpart_705_2_T48_501262.dita"
                    outputclass="SubPart"
                    props="Subpart 705.2">
             <topicref navtitle="705.202   Exceptions."
-                      href="Section_705_202_T48_50126111.dita"
+                      href="Section_705_202_T48_50126211.dita"
                       props="705.202"
                       outputclass="Section"/>
             <topicref navtitle="705.207   [Reserved]"
-                      href="Section_705_207_T48_50126112.dita"
+                      href="Section_705_207_T48_50126212.dita"
                       props="705.207"
                       outputclass="Section"/>
          </topicref>
          <topicref navtitle="Subpart 705.5—Paid Advertisement"
-                   href="Subpart_705_5_T48_501262.dita"
+                   href="Subpart_705_5_T48_501263.dita"
                    outputclass="SubPart"
                    props="Subpart 705.5">
             <topicref navtitle="705.502   Authority."
-                      href="Section_705_502_T48_50126211.dita"
+                      href="Section_705_502_T48_50126311.dita"
                       props="705.502"
                       outputclass="Section"/>
          </topicref>
@@ -1041,7 +1068,7 @@
              href="Subchapter_G_T48_5017.dita"
              outputclass="SubChapter"
              props="SubChapter G">
-      <topicref navtitle="PART 742—CONTRACT ADMINISTRATION&#xA;"
+      <topicref navtitle="PART 742—CONTRACT ADMINISTRATION&#xA;&#xA;&#xA;"
                 href="Part_742_T48_501730.dita"
                 outputclass="Part"
                 props="Part 742">
@@ -1165,7 +1192,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 750—EXTRAORDINARY CONTRACTUAL ACTIONS&#xA;"
+      <topicref navtitle="PART 750—EXTRAORDINARY CONTRACTUAL ACTIONS&#xA;&#xA;&#xA;"
                 href="Part_750_T48_501735.dita"
                 outputclass="Part"
                 props="Part 750">
