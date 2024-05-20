@@ -7,6 +7,7 @@
          <ph props="autonumber">701.470</ph> Procedure.</title>
       <conbody>
          <p xtrc="XREF">Link to an amendment published at 89 FR 4203, Jan. 23, 2024.</p>
+         <p xtrc="XREF">Link to a correction published at 89 FR 31658, Apr. 25, 2024.</p>
          <p props="Runin" outputclass="List1">(a) <i>Deviation from the FAR or AIDAR affecting one contract or transaction.</i> 
 				     </p>
          <p outputclass="List2">(1) 
@@ -36,7 +37,7 @@
 </p>
          <p outputclass="List1">(c) Requests for deviation shall contain a complete description of the deviation, the effective date of the deviation, the circumstances in which the deviation will be used, a specific reference to the regulation being deviated from, an indication as to whether any identical or similar deviations have been approved in the past, a complete justification of the deviation including any added or decreased cost to the Government, the name of the contractor, and the contract or task order number.
 </p>
-         <p outputclass="List1">(d) <i>Register of deviations.</i> Separate registers must be maintained by the procuring activities of the deviations granted from the FAR and AIDAR. Each deviation must be recorded in its appropriate register and be assigned a control number as follows: For USAID Washington deviations the symbol of the procuring activity, or for overseas mission deviations the relevant geographic code; the abbreviation “DEV”; the fiscal year; the type of deviation (from the FAR or AIDAR); the serial number [issued in consecutive order during each fiscal year] assigned to the particular deviation; and the suffix “c” if it is a class deviation (<i>e.g.,</i> M/OAA–DEV–FAR–14–1, M/OAA–DEV–FAR–14–2c, 123–DEV–AIDAR–14–1). The control number must be embodied in the document authorizing the deviation and must be cited in all references to the deviation.
+         <p outputclass="List1">(d) <i>Register of deviations.</i> Separate registers must be maintained by the procuring activities of the deviations granted from the FAR and AIDAR. Each deviation must be recorded in its appropriate register and be assigned a control number as follows: For USAID Washington deviations the symbol of the procuring activity, or for overseas mission deviations the relevant geographic code; the abbreviation “DEV”; the fiscal year; the type of deviation (from the FAR or AIDAR); the serial number [issued in consecutive order during each fiscal year] assigned to the particular deviation; and the suffix “c” if it is a class deviation (<i>e.g.,</i> M/OAA-DEV-FAR-14-1, M/OAA-DEV-FAR-14-2c, 123-DEV-AIDAR-14-1). The control number must be embodied in the document authorizing the deviation and must be cited in all references to the deviation.
 </p>
          <p outputclass="List1">(e) <i>Central record of deviations.</i> Copies of approved deviations shall be furnished promptly to the M/OAA/P, who shall be responsible for maintaining a central record of all deviations that are granted.
 </p>
