@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_747_T48_501734">
+      <title class="- topic/title ">PART 747—TRANSPORTATION
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           Sec. 621, Pub. L. 98-195, 75 Stat. 445 (22 U.S.C. 2381), as amended; E.O. 12163, Sept. 29, 1979, 44 FR 56673; 3 CFR 1979 Comp., p. 435.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_747_5_T48_5017341.dita#Subpart_747_5_T48_5017341">Subpart 747.5—Ocean Transportation by U.S.-Flag Vessels</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_747_507_T48_501734111.dita#Section_747_507_T48_501734111">747.507 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

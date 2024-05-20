@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_752_102_T48_501837111">
+      <title class="- topic/title ">
+         <ph props="autonumber">752.102</ph> Incorporating provisions and clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) As authorized by FAR 52.102, FAR and AIDAR provisions and clauses should be incorporated by reference in solicitations and contracts to the maximum practical extent, except as provided in paragraph (b) of this section. For provisions that require fill-ins or input by the contracting officer, the paragraph that contains the fill-in information must be included directly below the title of the provision or clause.
+</p>
+         <p outputclass="List1">(b) If applicable, the following AIDAR provisions and clauses must be incorporated in full text in all solicitations and awards:
+</p>
+         <p xtrc="DIV">
+                                 
+                                    <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                          <entry colname="1">No. AIDAR
+(48 CFR chapter 7)
+</entry>
+                                          <entry colname="2">Title
+</entry>
+                                          <entry colname="3">Date
+</entry>
+                                       </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">752.225-4</entry>
+                                          <entry colname="2" align="left">Buy American Act—Trade Agreements</entry>
+                                          <entry colname="3" align="left">July 1997.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">752.232-70</entry>
+                                          <entry colname="2" align="left">Letter of Credit Advance Payment</entry>
+                                          <entry colname="3" align="left">Mar 2015.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">752.245-70</entry>
+                                          <entry colname="2" align="left">Government property—USAID reporting requirements</entry>
+                                          <entry colname="3" align="left">July 1997.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">752.7003</entry>
+                                          <entry colname="2" align="left">Documentation for payment</entry>
+                                          <entry colname="3" align="left">Nov 1998.</entry>
+                                       </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                 
+                              </p>
+         <p outputclass="List1">(c) Contracting activities may choose to incorporate provisions in full text, when:
+</p>
+         <p outputclass="List2">(1) A new clause or significant revisions to an existing clause is issued less than six months prior to issuance of a solicitation or a contract award;
+</p>
+         <p outputclass="List2">(2) Listing a clause in full text will ensure compliance with the contract terms and conditions;
+</p>
+         <p outputclass="List2">(3) Inclusion of clauses in full text is more practical under the local conditions (<i>e.g.,</i> situations where doing so will assist small local entities, the prospective contractors may have limited Internet access, etc.).
+</p>
+         <p outputclass="List1">(d) If a solicitation or contract contains one or more FAR provisions or clauses incorporated by reference, the contracting officer must insert the following Internet address: <i>http://www.acquisition.gov/comp/far/index.html</i> in FAR clause 52.252-1, Solicitation Provisions Incorporated by Reference or 52.252-2, Clauses Incorporated by Reference.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
