@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.228-70</ph> Medical Evacuation (MEDEVAC) Services.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">As prescribed in 728.307-70, for use in all contracts requiring performance overseas:
 </p>
                                  <p xtrc="HD1">Medical Evacuation (MEDEVAC) Services (JUL 2007)
@@ -18,6 +17,10 @@
                                  <p outputclass="List2">(ii) The Mission Director may make a written determination to waive the requirement for such coverage. The determination must be based on findings that the quality of local medical services or other circumstances obviate the need for such coverage for eligible employees and their dependents located at post.
 </p>
                                  <p outputclass="List1">(c) Contractor must insert a clause similar to this clause in all subcontracts that require performance by contractor employees overseas.</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

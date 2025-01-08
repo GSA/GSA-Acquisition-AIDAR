@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.236-70</ph> Standards for accessibility for the disabled in USAID construction contracts.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">As prescribed in 736.570, for contracts for construction or renovation using program funds, insert the following clause.
 </p>
                                  <p xtrc="HD1">Standards for Accessibility for the Disabled in USAID Construction Contracts (JUL 2007)
@@ -26,6 +25,10 @@
                                  <p outputclass="List2">(1) Normal maintenance, re-roofing, painting or wallpapering, or changes to mechanical or electrical systems are not alterations and the above standards do not apply unless they affect the accessibility of the building or facility; and
 </p>
                                  <p outputclass="List2">(2) emergency construction (which may entail the provision of plastic sheeting or tents, minor repair and upgrading of existing structures, rebuilding of part of existing structures, or provision of temporary structures) intended to be temporary in nature. A portion of emergency construction assistance may be provided to people with disabilities as part of the process of identifying disaster- and crisis-affected people as “most vulnerable.”</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

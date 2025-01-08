@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.204-70</ph> Partner vetting pre-award requirements.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">As prescribed in (48 CFR) AIDAR 704.7005(a), insert the following provision in all solicitations subject to vetting:
 </p>
                                  <p xtrc="HD1">Partner Vetting Pre-award Requirements (FEB 2012)
@@ -59,6 +58,10 @@
                                  <p outputclass="List2">(2) The vetting official will follow the vetting process in paragraph (d) of this clause for any revision of the offeror's Form.
 </p>
                                  <p outputclass="List1">(g) <i>Award.</i> At the time of award, the contracting officer will confirm with the vetting official that the apparently successful offeror has passed vetting. The contracting officer may award only to an apparently successful offeror that has passed vetting.</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

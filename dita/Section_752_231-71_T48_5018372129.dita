@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.231-71</ph> Salary supplements for HG employees.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">As prescribed in 731.205-71, for use in all contracts with a possible need or services of a HG employee. The clause should also be inserted in all subsequent sub-contracts.
 </p>
                                  <p xtrc="HD1">Salary Supplements for HG Employees (MAR 2015)
@@ -16,6 +15,10 @@
                                  <p outputclass="List1">(b) Salary supplements to HG Employees are not allowable without the written approval of the contracting officer.
 </p>
                                  <p outputclass="List1">(c) The Contractor must insert a clause containing all the terms of this clause, including the requirement to obtain the written approval of the contracting officer for all salary supplements, in all subcontracts under this contract that may entail HG employee salary supplements. </p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

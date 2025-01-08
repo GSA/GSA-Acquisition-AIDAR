@@ -62,8 +62,34 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_727_70_T48_5015213.dita#Subpart_727_70_T48_5015213">Subpart 727.70—XXX</xref>
+                        href="Subpart_727_70_T48_5015213.dita#Subpart_727_70_T48_5015213">Subpart 727.70—Digital Information Planning, Collection, and Submission Requirements</xref>
                </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_727_7000_T48_501521311.dita#Section_727_7000_T48_501521311">727.7000 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_727_7001_T48_501521312.dita#Section_727_7001_T48_501521312">727.7001 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_727_7002_T48_501521313.dita#Section_727_7002_T48_501521313">727.7002 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_727_7003_T48_501521314.dita#Section_727_7003_T48_501521314">727.7003 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
          </ul>
       </body>

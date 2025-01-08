@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.7011</ph> Orientation and language training.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">For use in all USAID cost-reimbursement contracts involving performance overseas.
 </p>
                                  <p xtrc="HD1">Orientation and Language Training (APR 1984)
@@ -28,6 +27,10 @@
                                  <p outputclass="List1">(c) Authorization for an additional or alternate orientation program, if any, shall be either set forth in the schedule or provided in writing by the contracting officer.
 </p>
                                  <p outputclass="List1">(d) Travel expenses not to exceed one round trip from regular employee's residence to place of orientation and return will be reimbursed, pursuant to the cost principles applicable to this contract. Allowable salary costs during the period of orientation are also reimbursable.</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>
