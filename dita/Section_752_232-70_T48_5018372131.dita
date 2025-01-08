@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.232-70</ph> Letter of credit advance payment.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">As required by 732.406-73, insert the following clause in contracts being paid by Letter of Credit.
 </p>
                                  <p xtrc="HD1">Letter of Credit Advance Payment (MAR 2015)
@@ -45,6 +44,10 @@
                                  <p outputclass="List1">(d) If the LOC is revoked, payment may be made on a cost-reimbursement basis, in accordance with the other clauses of this contract concerning payment.
 </p>
                                  <p outputclass="List1">(e) Revocation of the LOC is at the discretion of M/CFO/CMP after consultation with the contracting officer. Notification to the contractor of revocation must be in writing and must specify the reasons for such action. The contractor may appeal any such revocation to the contracting officer, in accordance with the Disputes clause of this contract. Pending final decision, payments under the contract will be in accordance with paragraph (d) of this clause.</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

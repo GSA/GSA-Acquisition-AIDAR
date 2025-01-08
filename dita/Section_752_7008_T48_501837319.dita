@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.7008</ph> Use of Government facilities or personnel.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">The following clause is for use in all USAID non-commercial contracts.
 </p>
                                  <p xtrc="HD1">Use of Government Facilities or Personnel (APR 1984)
@@ -16,6 +15,10 @@
                                  <p outputclass="List1">(b) If at any time it is determined that the Contractor, or any of its employees or consultants have used U.S. Government facilities or personnel without authorization either in the contract itself, or in advance, in writing, by the contracting officer, then the amount payable under the contract shall be reduced by an amount equal to the value of the U.S. Government facilities or personnel used by the Contractor, as determined by the contracting officer.
 </p>
                                  <p outputclass="List1">(c) If the parties fail to agree on an adjustment made pursuant to this clause, it shall be considered a dispute, and shall be dealt with under the terms of the clause of this contract entitled “Disputes”.</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

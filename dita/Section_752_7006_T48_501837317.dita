@@ -6,7 +6,6 @@
       <title class="- topic/title ">
          <ph props="autonumber">752.7006</ph> Notices.</title>
       <conbody>
-         <p xtrc="XREF">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</p>
          <p xtrc="P">The following clause shall be used in all USAID contracts.
 </p>
                                  <p xtrc="HD1">Notices (APR 1984)
@@ -18,6 +17,10 @@
 </p>
                                  <p xtrc="P">
                                     <i>To Contractor:</i> At Contractor's address shown on the cover page of this contract, or to such other address as either of such parties shall designate by notice given as herein required. Notices hereunder shall be effective when delivered in accordance with this clause or on the effective date of the notice, whichever is later.</p>
-                              </conbody>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
    </concept>
 </dita>

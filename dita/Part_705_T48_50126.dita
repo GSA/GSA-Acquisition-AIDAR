@@ -23,8 +23,16 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_705_1_T48_501261.dita#Subpart_705_1_T48_501261">Subpart 705.1 xxx</xref>
+                        href="Subpart_705_1_T48_501261.dita#Subpart_705_1_T48_501261">Subpart 705.1—Dissemination of Information</xref>
                </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_705_102_T48_50126111.dita#Section_705_102_T48_50126111">705.102 Availability of solicitations.</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
             <li>
                <p>

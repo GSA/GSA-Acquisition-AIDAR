@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_727_7002_T48_501521313">
+      <title class="- topic/title ">
+         <ph props="autonumber">727.7002</ph> Policy.</title>
+      <conbody>
+         <p outputclass="List1">(a) It is the policy of USAID to manage data as a strategic asset to inform the planning, design, implementation, monitoring, and evaluation of the Agency's foreign assistance programs. To achieve this, it is also USAID's policy to manage data and digital information across a full life cycle. This life cycle includes the following stages: Govern, Plan, Acquire, Process, Analyze, Curate, and Publish/Share. For more information about the USAID Development Data policy, see ADS Chapter 579 at <i>https://www.usaid.gov/about-us/agency-policy/series-500/579.</i> For more information about USAID's Program Cycle policy, see ADS Chapter 201 at <i>https://www.usaid.gov/about-us/agency-policy/series-200/201.</i>
+                              </p>
+         <p outputclass="List1">(b) In furtherance of this policy, USAID requires that contractors:
+</p>
+         <p outputclass="List2">(1) Engage in digital information planning, including creating a Data Management Plan (DMP) to identify and plan for the management of data assets that will be produced, furnished, acquired, or collected in a USAID-funded activity.
+</p>
+         <p outputclass="List2">(2) Use only digital methods and USAID-approved standards, to the extent practicable, to produce, furnish, acquire, or collect information necessary to implement the contract requirements.
+</p>
+         <p outputclass="List2">(3) Provide documentation of informed consent the contractor receives when obtaining information on individuals.
+</p>
+         <p outputclass="List2">(4) Submit to USAID digital information produced, furnished, acquired, or collected in performance of a USAID contract at the finest level of granularity employed during contract implementation.
+</p>
+         <p outputclass="List1">(c) As specified in ADS Chapter 579, USAID implements appropriate controls to restrict data access in a way that balances the potential benefits with any underlying risks to its beneficiaries and contractors.
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
